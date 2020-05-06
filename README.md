@@ -1,6 +1,8 @@
-# farsinuxt
+# farsinum3
 
-> excercise farsi numbers
+nuxt.js の手習いとして作成した  farsi numbers です
+
+デプロイ先: https://kamiyn.github.io/farsinum3/
 
 ## Build Setup
 
