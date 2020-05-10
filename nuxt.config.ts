@@ -17,7 +17,9 @@ const config: Configuration = {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' }
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: baseDir + '/favicon.ico' }]
+    link: [
+      { rel: 'icon', type: 'image/x-icon', href: baseDir + '/favicon.ico' }
+    ]
   },
   /*
    ** Customize the progress-bar color
@@ -26,7 +28,7 @@ const config: Configuration = {
   /*
    ** Global CSS
    */
-  css: [],
+  css: ['~/assets/vazir-font/font-face.css'],
   /*
    ** Plugins to load before mounting the App
    */
@@ -44,6 +46,7 @@ const config: Configuration = {
    ** https://github.com/nuxt-community/vuetify-module
    */
   vuetify: {
+    treeShake: true,
     customVariables: ['~/assets/variables.scss']
   }
 }
