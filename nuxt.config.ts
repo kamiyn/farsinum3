@@ -3,7 +3,7 @@ const environment = process.env.NODE_ENV || 'development'
 const baseDir = '/farsinum3'
 
 const config: Configuration = {
-  mode: 'spa',
+  ssr: false,
   router: {
     base: baseDir + '/'
   },
