@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="328px" preserveAspectRatio="none" style="width:637px;height:328px;" version="1.1" viewBox="0 0 637 328" width="637px" zoomAndPan="magnify"><defs><filter height="300%" id="fnj8qfos48uk0" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[37fa337f31471226c8324e984a991396]
+cluster 図書館--><polygon fill="#FFFFFF" filter="url(#fnj8qfos48uk0)" points="86.5,16,96.5,6,486.5,6,486.5,311,476.5,321,86.5,321,86.5,16" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="476.5" x2="486.5" y1="16" y2="6"/><line style="stroke:#000000;stroke-width:1.5;" x1="86.5" x2="476.5" y1="16" y2="16"/><line style="stroke:#000000;stroke-width:1.5;" x1="476.5" x2="476.5" y1="16" y2="321"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="42" x="261.5" y="31.9951">図書館</text><!--MD5=[1c65a442e75481245a9ac95be9e0cad1]
+cluster 窓口--><rect fill="#FFFFFF" filter="url(#fnj8qfos48uk0)" height="117" style="stroke:#000000;stroke-width:1.5;" width="72" x="250.5" y="38"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="28" x="272.5" y="52.9951">窓口</text><!--MD5=[c5408ef09f1ec6c64e2e8c0b72259b25]
+cluster 司書室--><rect fill="#FFFFFF" filter="url(#fnj8qfos48uk0)" height="117" style="stroke:#000000;stroke-width:1.5;" width="58" x="398" y="90"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="42" x="406" y="104.9951">司書室</text><!--MD5=[a090666369c5fa6875a20f61955cfdf8]
+entity 蔵書--><ellipse cx="286.5" cy="281" fill="#FEFECE" filter="url(#fnj8qfos48uk0)" rx="12" ry="12" style="stroke:#A80036;stroke-width:1.5;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="274.5" x2="298.5" y1="295" y2="295"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="28" x="272.5" y="309.9951">蔵書</text><!--MD5=[5c8c7ee37cac9de687684d2757ee2837]
+entity 書架--><ellipse cx="286.5" cy="198" fill="#FEFECE" filter="url(#fnj8qfos48uk0)" rx="12" ry="12" style="stroke:#A80036;stroke-width:1.5;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="274.5" x2="298.5" y1="212" y2="212"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="28" x="272.5" y="226.9951">書架</text><ellipse cx="146.3543" cy="115.2084" fill="#FEFECE" filter="url(#fnj8qfos48uk0)" rx="51.8543" ry="14.7084" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="115.3543" y="118.956">会員管理</text><ellipse cx="146.3543" cy="197.2084" fill="#FEFECE" filter="url(#fnj8qfos48uk0)" rx="51.8543" ry="14.7084" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="115.3543" y="200.956">貸出返却</text><ellipse cx="426.3543" cy="248.2084" fill="#FEFECE" filter="url(#fnj8qfos48uk0)" rx="51.8543" ry="14.7084" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="395.3543" y="251.956">蔵書整理</text><!--MD5=[15d51dfe35166f2e1aeb462dd02b1ef0]
+entity 図書館員--><ellipse cx="286.5" cy="75" fill="#FEFECE" filter="url(#fnj8qfos48uk0)" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.5;"/><path d="M286.5,83 L286.5,110 M273.5,91 L299.5,91 M286.5,110 L273.5,125 M286.5,110 L299.5,125 " fill="none" filter="url(#fnj8qfos48uk0)" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="258.5" y="143.4951">図書館員</text><!--MD5=[19a7c7f2d56a2c2f3546455340edd06c]
+entity 司書--><ellipse cx="426.5" cy="127" fill="#FEFECE" filter="url(#fnj8qfos48uk0)" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.5;"/><path d="M426.5,135 L426.5,162 M413.5,143 L439.5,143 M426.5,162 L413.5,177 M426.5,162 L439.5,177 " fill="none" filter="url(#fnj8qfos48uk0)" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="28" x="412.5" y="195.4951">司書</text><!--MD5=[59f962bdcb44f7d4a302022cc29bcc7d]
+entity 会員--><ellipse cx="20" cy="125" fill="#FEFECE" filter="url(#fnj8qfos48uk0)" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.5;"/><path d="M20,133 L20,160 M7,141 L33,141 M20,160 L7,175 M20,160 L33,175 " fill="none" filter="url(#fnj8qfos48uk0)" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="28" x="6" y="193.4951">会員</text><!--MD5=[66cee071d8c29646963a7eadb015ab33]
+entity 書籍店--><polygon fill="#FEFECE" filter="url(#fnj8qfos48uk0)" points="538.5,235,548.5,225,620.5,225,620.5,261.2969,610.5,271.2969,538.5,271.2969,538.5,235" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="610.5" x2="620.5" y1="235" y2="225"/><line style="stroke:#000000;stroke-width:1.5;" x1="538.5" x2="610.5" y1="235" y2="235"/><line style="stroke:#000000;stroke-width:1.5;" x1="610.5" x2="610.5" y1="235" y2="271.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="42" x="553.5" y="257.9951">書籍店</text><!--MD5=[caf610f1c59027c48ff7e3ee48641ddd]
+link 会員 to 会員管理--><path d="M34.5112,151.2968 C53.3963,145.1759 86.9904,134.2877 112.4729,126.0285 " fill="none" id="会員-会員管理" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[a16e498ee80de7e6c09f4641a966e457]
+link 会員管理 to 図書館員--><path d="M197.4392,111.7253 C217.9231,110.4085 240.7641,108.9402 258.186,107.8202 " fill="none" id="会員管理-図書館員" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[f764b97064d2776e7b42f49bcce3f555]
+link 会員 to 貸出返却--><path d="M34.5112,160.7032 C53.3963,166.8241 86.9904,177.7123 112.4729,185.9715 " fill="none" id="会員-貸出返却" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[b6a9a188d264e2e3c306aa75c126306a]
+link 貸出返却 to 図書館員--><path d="M167.1575,183.5726 C191.2689,167.9002 231.2718,141.8983 258.2453,124.3656 " fill="none" id="貸出返却-図書館員" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[eb74484393fc4144182d8d4d96db7a4f]
+link 貸出返却 to 蔵書--><path d="M166.8572,210.3776 C194.917,228.8169 244.9029,261.6648 270.4711,278.4668 " fill="none" id="貸出返却-蔵書" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[d2d17793b49e97a81de70c42b8aaacab]
+link 貸出返却 to 書架--><path d="M197.4392,200.2747 C223.0831,201.9232 252.4213,203.8092 270.1963,204.9519 " fill="none" id="貸出返却-書架" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[a771ccc2c34560c72e0e3edce9e2c35a]
+link 蔵書 to 蔵書整理--><path d="M302.5598,284.2968 C323.8913,278.0497 362.1796,266.8367 390.5744,258.5211 " fill="none" id="蔵書-蔵書整理" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[998dd8b951fa20332dd99675b2e6e39b]
+link 書架 to 蔵書整理--><path d="M302.5598,210.8179 C323.9631,217.2389 362.4376,228.7813 390.8609,237.3083 " fill="none" id="書架-蔵書整理" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[7342f937a3e4ea7683f4c68ca9557f12]
+link 蔵書整理 to 司書--><path d="M426.5,233.2344 C426.5,221.6749 426.5,210.1155 426.5,198.556 " fill="none" id="蔵書整理-司書" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[5ed72300b7d846d17c9251d00377923b]
+link 蔵書整理 to 書籍店--><path d="M478.726,248 C498.1173,248 519.83,248 538.1212,248 " fill="none" id="蔵書整理-書籍店" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[024eb566b9607d18bc644b73220b3e30]
+@startuml
+left to right direction
+
+actor 会員
+node 書籍店
+node 図書館 {
+  entity 蔵書
+  entity 書架
+  rectangle 窓口 {
+    actor 図書館員
+  }
+  rectangle 司書室 {
+    actor 司書
+  }
+
+  会員 .. (会員管理)
+  (会員管理) .. 図書館員
+
+  会員 .. (貸出返却)
+  (貸出返却) .. 図書館員
+  (貸出返却) .. 蔵書
+  (貸出返却) .. 書架
+
+  蔵書 .. (蔵書整理)
+  書架 .. (蔵書整理)
+  (蔵書整理) . 司書
+  (蔵書整理) .. 書籍店
+}
+@enduml
+
+PlantUML version 1.2021.01(Tue Feb 02 07:55:08 UTC 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

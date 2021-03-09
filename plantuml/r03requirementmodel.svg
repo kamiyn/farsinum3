@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="362px" preserveAspectRatio="none" style="width:426px;height:362px;" version="1.1" viewBox="0 0 426 362" width="426px" zoomAndPan="magnify"><defs><filter height="300%" id="frt9e4oaueqva" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[19a7c7f2d56a2c2f3546455340edd06c]
+entity 司書--><ellipse cx="34" cy="285.5" fill="#FEFECE" filter="url(#frt9e4oaueqva)" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.5;"/><path d="M34,293.5 L34,320.5 M21,301.5 L47,301.5 M34,320.5 L21,335.5 M34,320.5 L47,335.5 " fill="none" filter="url(#frt9e4oaueqva)" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="28" x="20" y="353.9951">司書</text><!--MD5=[15d51dfe35166f2e1aeb462dd02b1ef0]
+entity 図書館員--><ellipse cx="34" cy="150.5" fill="#FEFECE" filter="url(#frt9e4oaueqva)" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.5;"/><path d="M34,158.5 L34,185.5 M21,166.5 L47,166.5 M34,185.5 L21,200.5 M34,185.5 L47,200.5 " fill="none" filter="url(#frt9e4oaueqva)" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="6" y="218.9951">図書館員</text><!--MD5=[59f962bdcb44f7d4a302022cc29bcc7d]
+entity 会員--><ellipse cx="34" cy="17.5" fill="#FEFECE" filter="url(#frt9e4oaueqva)" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.5;"/><path d="M34,25.5 L34,52.5 M21,33.5 L47,33.5 M34,52.5 L21,67.5 M34,52.5 L47,67.5 " fill="none" filter="url(#frt9e4oaueqva)" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="28" x="20" y="85.9951">会員</text><path d="M122,6 L122,31.1328 A0,0 0 0 0 122,31.1328 L167.2669,31.1328 L48.7316,46.6234 L175.2669,31.1328 L417,31.1328 A0,0 0 0 0 417,31.1328 L417,16 L407,6 L122,6 A0,0 0 0 0 122,6 " fill="#FBFB77" filter="url(#frt9e4oaueqva)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M407,6 L407,16 L417,16 L407,6 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="274" x="128" y="23.0669">見たい本が図書館にあるかをWebで検索したい</text><path d="M167.5,66 L167.5,91.1328 A0,0 0 0 0 167.5,91.1328 L371.5,91.1328 A0,0 0 0 0 371.5,91.1328 L371.5,76 L361.5,66 L175.5,66 L48.7316,50.3766 L167.5,66 L167.5,66 A0,0 0 0 0 167.5,66 " fill="#FBFB77" filter="url(#frt9e4oaueqva)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M361.5,66 L361.5,76 L371.5,76 L361.5,66 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="183" x="173.5" y="83.0669">借りたい本をWebで予約したい</text><path d="M148.5,126 L148.5,151.1328 A0,0 0 0 0 148.5,151.1328 L196.5797,151.1328 L62.4068,176.3132 L204.5797,151.1328 L390.5,151.1328 A0,0 0 0 0 390.5,151.1328 L390.5,136 L380.5,126 L148.5,126 A0,0 0 0 0 148.5,126 " fill="#FBFB77" filter="url(#frt9e4oaueqva)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M380.5,126 L380.5,136 L390.5,136 L380.5,126 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="221" x="154.5" y="143.0669">本の貸出、返却手続きを簡素化したい</text><path d="M148.5,186 L148.5,186 L62.4068,183.5506 L148.5,194 L148.5,211.1328 A0,0 0 0 0 148.5,211.1328 L390.5,211.1328 A0,0 0 0 0 390.5,211.1328 L390.5,196 L380.5,186 L148.5,186 A0,0 0 0 0 148.5,186 " fill="#FBFB77" filter="url(#frt9e4oaueqva)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M380.5,186 L380.5,196 L390.5,196 L380.5,186 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="221" x="154.5" y="203.0669">本の在庫をリアルタイムで把握したい</text><path d="M187.5,246 L187.5,271.1328 L351.5,271.1328 L351.5,256 L341.5,246 L187.5,246 " fill="#FBFB77" filter="url(#frt9e4oaueqva)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M341.5,246 L341.5,256 L351.5,256 L341.5,246 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="143" x="193.5" y="263.0669">本の購入を簡素化したい</text><path d="M122.5,306 L122.5,313.2516 L48.7316,316.6251 L122.5,321.2516 L122.5,331.1328 A0,0 0 0 0 122.5,331.1328 L416.5,331.1328 A0,0 0 0 0 416.5,331.1328 L416.5,316 L406.5,306 L122.5,306 A0,0 0 0 0 122.5,306 " fill="#FBFB77" filter="url(#frt9e4oaueqva)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M406.5,306 L406.5,316 L416.5,316 L406.5,306 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="273" x="128.5" y="323.0669">返却率が悪くならないように返却を簡単にする</text><!--MD5=[a2ceedbad16b6f6bdf40ee1fbbc52a8a]
+link 司書 to GMN39--><path d="M48.8055,311.2514 C66.1798,305.218 95.932,295.2773 122,288.5 C147.2912,281.9247 175.3303,275.9087 200.1115,271.0184 " fill="none" id="司書-GMN39" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[0d574c8aabf24c82371c4e55154e9dcf]
+@startuml
+left to right direction
+
+actor 司書
+actor 図書館員
+actor 会員
+
+actor 会員
+note right : 見たい本が図書館にあるかをWebで検索したい
+actor 会員
+note right : 借りたい本をWebで予約したい
+
+actor 図書館員
+note right : 本の貸出、返却手続きを簡素化したい
+actor 図書館員
+note right : 本の在庫をリアルタイムで把握したい
+
+actor 司書
+note right : 本の購入を簡素化したい
+actor 司書
+note right : 返却率が悪くならないように返却を簡単にする
+@enduml
+
+PlantUML version 1.2021.01(Tue Feb 02 07:55:08 UTC 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

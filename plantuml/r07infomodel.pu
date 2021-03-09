@@ -1,0 +1,23 @@
+left to right direction
+
+object 会員
+object 本
+
+object 貸出予約
+object 貸出図書
+
+object 蔵書
+object 書架
+
+object 書籍発注
+
+会員..貸出予約
+貸出予約..本
+
+会員..貸出図書
+貸出図書..本
+
+本.蔵書
+蔵書.書架
+
+本..書籍発注
